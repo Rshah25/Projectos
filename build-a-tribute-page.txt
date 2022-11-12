@@ -1,0 +1,74 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet"  href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Steve Jobs</title>
+    </head>
+    <body>
+      <main id="main">
+        <div id="heading" class="center">
+          <h1 id="title" class="center">Steve Jobs</h1>
+          <p class="font"><i>The man who loved innovation</i></p>
+          </div>
+          <div id="img-div">
+			<img class="center" id=image src="https://i.pinimg.com/564x/20/e2/80/20e280b323afc23e9dc7f8ea66d93847.jpg" alt="Steve Jobs with his Macintosh">
+			<div class="center"><br>
+      <div id="img-caption">
+			<p id="img-caption" class="font">Steve Jobs with early version of Macintosh</p><br>
+			</div>
+ </div>
+       <div id="tribute-info" class="center">
+         <h2 class="font">Here's a time-line of Steve Job's life: </h2>
+         <ul class="font" style="text-align: justify;">
+           <br>
+           <li><b>1955</b> - Steve Jobs was born February 24, 1955, in San Franciso, California. </li>
+           <br>
+           <li><b>1972</b> - In September 1972, Jobs enrolled at Reed College in Portland, Oregon. </li>
+           <br>
+           <li><b>1974</b> - In 1974, he traveled through India seeking enlightenment and studying Zen Buddhism. </li>
+           <li><b>1976</b> - He and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer. Together the duo gained fame and wealth a year later with production and sale of the Apple II, one of the first highly successful mass-produced microcomputers. </li>
+           <br>
+           <li><b>1979 - 1984</b> -  Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI). This led to the development of the unsuccessful Apple Lisa in 1983, followed by the breakthrough Macintosh in 1984, the first mass-produced computer with a GUI. </li>
+           <br>
+           <li><b>1985</b> - In 1985, Jobs was forced out of Apple after a long power struggle with the company's board and its then-CEO, John Sculley. </li>
+           <br>
+           <li><b>1997</b> -In 1997, Jobs returned to Apple as CEO after the company's acquisition of NeXT. He was largely responsible for reviving Apple, which was on the verge of bankruptcy.</li>
+           <br>
+<li><b>2001</b> -  In 2001, the original Mac OS was replaced with the completely new Mac OS X (now known as macOS), based on NeXT's NeXTSTEP platform, giving the operating system a modern Unix-based foundation for the first time. </li>
+           <br>
+           <li><b>2003</b> - . In 2003, Jobs was diagnosed with a pancreatic neuroendocrine tumor. </li>
+           <br>
+           <li><b>2011</b> - He died of respiratory arrest related to the tumor on October 5, 2011, at the age of 56. </li>
+           <br>
+           </ul>
+           </div>
+<div class="center">
+            <p class="font"><i>|I was lucky to get into computers when it was a very younge and idealistic industry. There weren't many degress offered in computer science,so people in computers were brilliant people from mathematics, physics, music, zoology, whatever. They loved it, and no one was really in it for the money... There are people around here who start companies just to make money, but the great companies, well, that's not what they're about."</i>
+                         -Steve Jobs</p>
+                        <br>
+                        <h3 class="font">You can learn more about this incredible man on
+				<a href="https://en.wikipedia.org/wiki/Steve_Jobs" id="tribute-link" target="_blank">
+				Wikipedia.</a>
+			</h3>
+		</div>
+
+	</main>
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+** end of undefined **
+
